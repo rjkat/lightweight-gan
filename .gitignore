@@ -131,3 +131,6 @@ dmypy.json
 .aim
 models/
 results/
+
+*.jpg
+*~
